@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testes-automatizados-python",
+      "title": "Testes Automatizados com pytest",
+      "description": "Pratique testes automatizados em Python com pytest, cobrindo resultados esperados e casos-limite.",
+      "path": "assignments/testes-automatizados-python",
+      "dueDate": "2026-11-17"
     }
   ]
 }
